@@ -1,40 +1,51 @@
-<h1 align="center">Hi 👋, I'm Jainam Kothari</h1>
+<table>
+<tr>
 
-<h3 align="center">
-🚀 DevOps & Cloud Enthusiast | AWS Certified Cloud Practitioner ☁️
-</h3>
+<td width="35%">
 
-<p align="center">
-  <img src="https://github.com/JAINAMMESSI30/assets/blob/main/jk.jpeg?raw=true" width="180" />
-</p>
+<img src="https://github.com/JAINAMMESSI30/assets/blob/main/jk.jpeg?raw=true" width="220"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+Progress;AWS+Certified+Cloud+Practitioner;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Builder;Linux+%7C+Cloud+%7C+Automation" />
-</p>
+<br><br>
+
+### 👨‍💻 Jainam Kothari
+
+🚀 DevOps & Cloud Enthusiast  
+☁️ AWS Certified Cloud Practitioner  
+🐧 Linux & Kubernetes Lover  
+
+<br>
+
+<a href="YOUR_LINKEDIN_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+</td>
+
+<td width="65%">
+
+# Hi 👋 I'm Jainam
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=false&vCenter=true&width=500&lines=DevOps+Engineer+in+Progress;AWS+Certified+Cloud+Practitioner;Docker+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Pipeline+Builder"/>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Working on DevOps & Cloud Projects
+- 🌱 Learning Kubernetes, Terraform & AWS
+- ⚡ Passionate about Automation & Infrastructure
+- 🎯 Goal: Become a DevOps Engineer at top MNC
 
 ---
 
-# 🚀 About Me
+## 🛠️ Tech Stack
 
-```yaml
-Name: Jainam Kothari
-Role: DevOps & Cloud Enthusiast
-Learning: Kubernetes, Terraform, CI/CD
-Certified: AWS Cloud Practitioner
-Focus: Cloud Infrastructure & Automation
-```
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,bash,python,git,github,vscode"/>
 
----
+</td>
 
-# 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,ansible,linux,bash,python,git,github,vscode" />
-
-</p>
-
----
+</tr>
+</table>
 
 # 🏆 Certifications
 
@@ -49,16 +60,16 @@ Focus: Cloud Infrastructure & Automation
 # 📊 GitHub Stats
 
 <p align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=JAINAMMESSI30&show_icons=true&theme=gruvbox&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=JAINAMMESSI30&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAINAMMESSI30&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAINAMMESSI30&layout=compact&theme=gruvbox&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=JAINAMMESSI30&theme=tokyonight&hide_border=true" />
+<img width="70%" src="https://streak-stats.demolab.com?user=JAINAMMESSI30&theme=gruvbox&hide_border=true"/>
 
 </p>
 
@@ -108,4 +119,10 @@ Focus: Cloud Infrastructure & Automation
 
 <p align="center">
 ⭐ Building projects and learning DevOps every day 🚀
+</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JAINAMMESSI30&theme=github-dark&hide_border=true&line=FFD700&point=FFFFFF"/>
 </p>
