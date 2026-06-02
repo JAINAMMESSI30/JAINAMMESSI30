@@ -33,10 +33,13 @@ DevOps & Cloud Enthusiast 🚀
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JAINAMMESSI30&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JAINAMMESSI30&show_icons=true&theme=tokyonight" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JAINAMMESSI30&layout=compact&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAINAMMESSI30&layout=compact&theme=tokyonight" />
 
+  <img src="https://streak-stats.demolab.com?user=JAINAMMESSI30&theme=tokyonight" />
+</p>
 ---
 
 ## 🔥 Current Focus
