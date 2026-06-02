@@ -1,17 +1,7 @@
 <table>
 <tr>
 
-<td width="35%">
 
-<img src="https://github.com/JAINAMMESSI30/assets/blob/main/jk.jpeg?raw=true" width="220"/>
-
-<br><br>
-
-### 👨‍💻 Jainam Kothari
-
-🚀 DevOps & Cloud Enthusiast  
-☁️ AWS Certified Cloud Practitioner  
-🐧 Linux & Kubernetes Lover  
 
 <br>
 
